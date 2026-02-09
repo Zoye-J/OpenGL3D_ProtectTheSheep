@@ -1,5 +1,5 @@
 # 3D-Project-Protect-the-sheep
-BRACU CSE423: Computer Graphics Course Project, a 3D OpenGL game where a Shepherd protects his sheep from wolves.
+CSE423: Computer Graphics Course Project, a 3D OpenGL game where a Shepherd protects his sheep from wolves.
 The game is simple.
 Shepherd will chop wood in the day time while pulling his sheep when they get stuck.
 And at night time he will collect wood to keep the fire going while protecting his sheep from Wolves.
